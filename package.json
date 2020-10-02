@@ -5,7 +5,9 @@
   "author": "BosEriko <bos.eriko@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "deploy": "firebase deploy"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "next": "^9.5.3",
