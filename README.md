@@ -9,4 +9,5 @@ A wannabe alternative to horriblesubs.info
 ### Misc To-do:
 - [ ] Algolia Search
 - [ ] Anime Details using AniList's GraphQL endpoint
+- [ ] Apollo State Management
 - [ ] All contributors bot for GitHub repository
